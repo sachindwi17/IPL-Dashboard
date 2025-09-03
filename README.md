@@ -27,7 +27,7 @@ Data Sources – IPL match and ball-by-ball datasets (CSV)
 
 📸 Dashboard Preview
 
-<img width="1336" height="743" alt="IPL Dashboard front page" src="https://github.com/user-attachments/assets/7d3d1b50-bb81-4a46-a2ce-1c9a628fedf8" />
+<img width="1336" height="743" alt="IPL Dashboard front page" src="https://github.com/user-attachments/assets/7d3d1b50-bb81-4a46-a2ce-1c9a628fedf8" /><br>
 
 
 📌 Insights Gained
@@ -42,10 +42,3 @@ Overall historical IPL performance patterns
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.
-
-
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
