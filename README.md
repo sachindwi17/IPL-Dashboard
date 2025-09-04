@@ -8,21 +8,21 @@ The dashboard provides rich insights into team performances, players, matches, a
 📊 Features <br>
 
 Analysis of all IPL seasons with filters and slicers<br>
-Multiple DAX measures created for:<br>
-   1.Runs, Wickets, Boundaries<br>
-   2.Strike Rate, Economy Rate<br>
-   3.Orange Cap & Purple Cap stats<br>
-   4.Team-wise & Player-wise analysis<br>
-Season-wise performance comparisons<br>
-Match-level drill-down reports<br>
-Interactive slicers for teams, players, and seasons
+1.Multiple DAX measures created for:<br>
+   - Runs, Wickets, Boundaries<br>
+   - Strike Rate, Economy Rate<br>
+   - Orange Cap & Purple Cap stats<br>
+   - Team-wise & Player-wise analysis<br>
+2.Season-wise performance comparisons<br>
+3.Match-level drill-down reports<br>
+4.Interactive slicers for teams, players, and seasons
 
 
 🛠️ Tools & Technologies
 
-Power BI Desktop – Data modeling, dashboard creation<br>
-DAX (Data Analysis Expressions) – Custom measures<br>
-Data Sources – IPL match and ball-by-ball datasets (CSV)
+- Power BI Desktop – Data modeling, dashboard creation<br>
+- DAX (Data Analysis Expressions) – Custom measures<br>
+- Data Sources – IPL match and ball-by-ball datasets (CSV)
 
 
 📸 Dashboard Preview
@@ -32,10 +32,10 @@ Data Sources – IPL match and ball-by-ball datasets (CSV)
 
 📌 Insights Gained
 
-Top-performing batsmen & bowlers in each season<br>
-Team winning trends over the years<br>
-Venue-wise performance analysis<br>
-Orange Cap & Purple Cap leaderboard<br>
+- Top-performing batsmen & bowlers in each season<br>
+- Team winning trends over the years<br>
+- Venue-wise performance analysis<br>
+- Orange Cap & Purple Cap leaderboard<br>
 Overall historical IPL performance patterns
 
 
