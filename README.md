@@ -12,7 +12,8 @@ Analysis of all IPL seasons with filters and slicers<br>
    - Runs, Wickets, Boundaries<br>
    - Strike Rate, Economy Rate<br>
    - Orange Cap & Purple Cap stats<br>
-   - Team-wise & Player-wise analysis<br><br>
+   - Team-wise & Player-wise analysis<br>
+   
 2.Season-wise performance comparisons<br>
 3.Match-level drill-down reports<br>
 4.Interactive slicers for teams, players, and seasons
